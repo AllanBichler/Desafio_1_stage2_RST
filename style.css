@@ -1,0 +1,75 @@
+
+/* AQUI COMEÇA O MAIN */
+#main{
+ text-align: center;
+
+}
+h1{
+    color: #3F3D56;
+    font-family: Dosis;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: normal;
+}
+h1 span{
+    color: #EE24FF;
+    font-weight: bold;
+}
+p{
+    color: #828282;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 146.667% */
+}   
+P strong{
+    color: #3F3D56;
+    font-weight: 700;
+}
+p span{
+    font-weight: 700;
+}
+#textUm{
+    text-align: center;
+}
+#textDois{
+    text-align: center;
+    
+}
+
+/* AQUI COMEÇA FOOTER */
+
+#footer {
+    padding: 64px;
+    color: #3F3D56;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 147.682%; /* 22.152px */
+}
+
+#footer a {
+    text-decoration: none;
+    margin-left: 28px;
+}
+
+#footer img {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto; /* Centralizar horizontalmente */
+    max-width: 100%;
+    height: auto;
+    width: 100%; /* Ajusta a largura ao tamanho do contêiner pai */
+}
+
+#line {
+    width: 568px;
+    height: 0;
+    border: 1px solid #eceff2;
+    margin: 0 auto 8px;
+}
