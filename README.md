@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Stage 2 </h1>
+<h1 align="center"> Desafio 1 - Stage 2 </h1>
 
 <p align="center">
 Colocando em prática o conhecimento oferecido dentro da plataforma da rocketseat.
