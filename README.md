@@ -11,9 +11,6 @@ Colocando em prática o conhecimento oferecido dentro da plataforma da rocketsea
 
 <br>
 
-<p align="center">
-  <img alt="Capa do projeto" src=".github/preview.jpg" width="50%">
-</p>
 
 ## 🚀 Tecnologias
 
